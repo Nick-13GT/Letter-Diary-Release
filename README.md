@@ -1,14 +1,14 @@
-# 💌 LetterDiary — สมุดจดหมายของฉัน
+# 💌 Letter Diary — สมุดจดหมายของฉัน
 
 โปรแกรมเขียนและเก็บจดหมายบน Windows มีอิโมจิ โหมดมืด และเพลง lofi เบา ๆ
 
 ## ดาวน์โหลด
 
-👉 **[ไปหน้าดาวน์โหลด (Releases)](../../releases/latest)** แล้วกดไฟล์ **Install-LetterDiary-x.x.x.exe**
+👉 **[ไปหน้าดาวน์โหลด (Releases)](../../releases/latest)** แล้วกดไฟล์ **Install-Letter-Diary-x.x.x.exe**
 
 ## วิธีติดตั้ง
 
-1. ดาวน์โหลดไฟล์ **Install-LetterDiary-x.x.x.exe** (ตัวเลขคือเวอร์ชัน)
+1. ดาวน์โหลดไฟล์ **Install-Letter-Diary-x.x.x.exe** (ตัวเลขคือเวอร์ชัน)
 2. ดับเบิลคลิกไฟล์ที่โหลดมา (ปกติอยู่ในโฟลเดอร์ Downloads)
 3. ถ้า Windows ขึ้นหน้าจอสีน้ำเงินว่า **"Windows protected your PC"** ให้กด **More info** แล้วกด **Run anyway**
    (ขึ้นเพราะเป็นโปรแกรมของนักพัฒนาอิสระ ยังไม่มีลายเซ็นดิจิทัล ไม่ได้แปลว่าอันตราย)
@@ -16,8 +16,8 @@
 
 ## เปิดโปรแกรมครั้งต่อไป
 
-- ดับเบิลคลิกไอคอน **LetterDiary** บนหน้า Desktop
-- หรือกดปุ่ม Start แล้วพิมพ์ **LetterDiary**
+- ดับเบิลคลิกไอคอน **Letter Diary** บนหน้า Desktop
+- หรือกดปุ่ม Start แล้วพิมพ์ **Letter Diary**
 
 ## การใช้งานเบื้องต้น
 
@@ -35,7 +35,7 @@
 
 ## ถอนการติดตั้ง
 
-Settings → Apps → Installed apps → LetterDiary → Uninstall
+Settings → Apps → Installed apps → Letter Diary → Uninstall
 
 ---
 
